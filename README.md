@@ -11,7 +11,7 @@ This repository includes QA datasets that are developed or under development for
 - [x] <b>Initial Dataset Curate Date</b>: 02/29/2024
 - [x] <b>Initial Dataset Release Date</b>: 01/18/2025
 - [x] <b>Key Contributors to Dataset Curation</b>: Junjie Zhu; Meiqi Yang; Jinyue Jiang
-- [x] <b>Usage of the Dataset</b>: Open source but needs a citation credit to [Zhu et al. (2024)](https://doi.org/10.1021/acs.estlett.4c00665) and this Github respsitory [LLMQA](https://github.com/starfriend10/LLMQA)
+- [x] <b>Usage of the Dataset</b>: Open source but needs a citation credit to [Zhu et al. (2024)](https://doi.org/10.1021/acs.estlett.4c00665) and this Github respsitory [ENVIRONLLMQA](https://github.com/starfriend10/ENVIRONLLMQA)
 > [!NOTE]
 <b>Data Assessment in the Following Studies</b>:
 > * Zhu, J. J., Yang, M., Jiang, J., Bai, Y., Chen, D., & Ren, Z. J. (2024). Enabling GPTs for Expert-Level Environmental Engineering Question Answering. Environmental Science & Technology Letters, 11(12), 1327-1333. [https://doi.org/10.1021/acs.estlett.4c00665](https://doi.org/10.1021/acs.estlett.4c00665)
