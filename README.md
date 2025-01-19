@@ -8,7 +8,8 @@ This repository includes QA datasets that are developed or being developing for 
 - [x] <b>Data Type</b>: Long Form (Detailed responses and explanations)
 - [x] <b>Number of QA Data</b>: 286
 - [x] <b>Data Curation Method</b>: Expert-based cleaning and organization
-- [ ] <b>Initial Dataset Release Date</b>: 01/18/2025
+- [x] <b>Initial Dataset Release Date</b>: 01/18/2025
+- [x] <b>Major Contributors of the Dataset</b>: Junjie Zhu; Meiqi Yang; Jinyue Jiang
 > [!NOTE]
 <b>Data Assessment in the Following Studies</b>:
 > * Zhu, J. J., Yang, M., Jiang, J., Bai, Y., Chen, D., & Ren, Z. J. (2024). Enabling GPTs for Expert-Level Environmental Engineering Question Answering. Environmental Science & Technology Letters, 11(12), 1327-1333.
