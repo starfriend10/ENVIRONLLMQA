@@ -1,11 +1,11 @@
 # Question-Answering (QA) Dataset Development for Environmental Large Lanuage Models (LLMs) Assessment
-This repository includes QA datasets that are developed or being developing for assessment of the performance of environmental large language models
+This repository includes QA datasets that are developed or being developing for assessment of the performance of environmental LLMs
 
 ## Long Form QA Data
 ### Biological Wastewater Treatment
-Data Source: Lopez-Vazquez, C., Brdjanovic, D., Volcke, E., van Loosdrecht, M., Wu, D., & Chen, G. (2023). Biological wastewater treatment: examples and exercises. IWA Publishing.
+- [x] Data Source: Lopez-Vazquez, C., Brdjanovic, D., Volcke, E., van Loosdrecht, M., Wu, D., & Chen, G. (2023). Biological wastewater treatment: examples and exercises. IWA Publishing.
 
-Data Type: Long Form (Detailed responses and explanations)
+- [x] Data Type: Long Form (Detailed responses and explanations)
 
 Number of QA Data: 286
 
