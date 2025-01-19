@@ -1,5 +1,5 @@
 # Question-Answering (QA) Dataset Development for Environmental Large Lanuage Models (LLMs) Assessment
-This repository includes QA datasets that are developed or being developing for assessment of the performance of environmental LLMs
+This repository includes QA datasets that are developed or under development for assessment of the performance of environmental LLMs
 
 ## Long Form QA Data
 ### Biological Wastewater Treatment
