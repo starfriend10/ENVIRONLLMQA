@@ -4,7 +4,7 @@ This repository includes QA datasets that are developed or under development for
 ## Long Form QA Datasets
 ### Biological Wastewater Treatment
 - [x] <b>Dataset Name</b>: BWT_LFQA
-- [x] <b>Data Source</b>: [Book] Lopez-Vazquez, C., Brdjanovic, D., Volcke, E., van Loosdrecht, M., Wu, D., & Chen, G. (2023). Biological wastewater treatment: examples and exercises. IWA Publishing. [https://doi.org/10.2166/97817890623041](https://doi.org/10.2166/9781789062304)
+- [x] <b>Data Source</b>: [Open Access Book] Lopez-Vazquez, C., Brdjanovic, D., Volcke, E., van Loosdrecht, M., Wu, D., & Chen, G. (2023). Biological wastewater treatment: examples and exercises. IWA Publishing. [https://doi.org/10.2166/97817890623041](https://doi.org/10.2166/9781789062304)
 - [x] <b>Data Type</b>: Long Form (Detailed responses and explanations)
 - [x] <b>Number of QA Data</b>: 286
 - [x] <b>Data Curation Method</b>: Expert-based cleaning and organization
