@@ -15,3 +15,32 @@ This repository includes QA datasets that are developed or under development for
 > [!NOTE]
 <b>Data Assessment in the Following Studies</b>:
 > * Zhu, J. J., Yang, M., Jiang, J., Bai, Y., Chen, D., & Ren, Z. J. (2024). Enabling GPTs for Expert-Level Environmental Engineering Question Answering. Environmental Science & Technology Letters, 11(12), 1327-1333. [https://doi.org/10.1021/acs.estlett.4c00665](https://doi.org/10.1021/acs.estlett.4c00665)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## License
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
