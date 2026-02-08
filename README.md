@@ -4,7 +4,7 @@ This repository includes QA datasets that are developed or under development for
 ## Long-Form QA Datasets
 ### Biological Wastewater Treatment (BWT)
 - [x] <b>Dataset Name</b>: BWT_LFQA
-- [x] <b>Data Source</b>: [Open Access Book] Lopez-Vazquez, C., Brdjanovic, D., Volcke, E., van Loosdrecht, M., Wu, D., & Chen, G. (2023). Biological wastewater treatment: examples and exercises. IWA Publishing. [https://doi.org/10.2166/97817890623041](https://doi.org/10.2166/9781789062304)
+- [x] <b>Data Source</b>: Directly retrieved from [Open Access Book] Lopez-Vazquez, C., Brdjanovic, D., Volcke, E., van Loosdrecht, M., Wu, D., & Chen, G. (2023). Biological wastewater treatment: examples and exercises. IWA Publishing. [https://doi.org/10.2166/97817890623041](https://doi.org/10.2166/9781789062304)
 - [x] <b>Data Type</b>: Long-Form (Detailed responses and explanations)
 - [x] <b>Number of Data</b>: 286
 - [x] <b>Data Curation Method</b>: Expert-based cleaning and organization
@@ -20,7 +20,7 @@ This repository includes QA datasets that are developed or under development for
 ## Multiple-Choice Question Datasets
 ### Water Sustainability (WS)
 - [x] <b>Dataset Name</b>: WS_MCQ
-- [x] <b>Data Sources</b>: [Open Access Books]
+- [x] <b>Data Sources</b>: Generated and prepared based on [Open Access Books]
 
 Ren, Zhiyong Jason, and Krishna Pagilla. eds. 2022. *Pathways to Water Sector Decarbonization, Carbon Capture and Utilization*. IWA Publishing. [https://doi.org/10.2166/9781789063738](https://doi.org/10.2166/9781789063738)
 
